@@ -1,2 +1,2 @@
 # DIEGO-Arup
-Different scripts and tools developed or used in Arup by me
+Different scripts and tools developed or used in Arup
